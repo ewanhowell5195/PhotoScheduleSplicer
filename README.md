@@ -1,5 +1,5 @@
 # PhotoTimeSlicer
-Take photos on a schedule and splice them together
+Take photos on a schedule and slice them together
 
 ---
 This program takes photos on a set schedule, then stitches them all together to create a single image that shows the transition over the schedule's duration.
