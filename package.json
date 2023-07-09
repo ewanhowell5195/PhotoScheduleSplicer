@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "node-schedule": "^2.1.1",
+    "skia-canvas": "^1.0.0",
+    "ssh2-sftp-client": "^9.1.0"
+  }
+}

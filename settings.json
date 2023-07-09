@@ -1,0 +1,6 @@
+{
+  "ip": "192.168.0.232",
+  "password": "VerySecurePassword123",
+  "photos": 1,
+  "cron": "*/1 * * * * *"
+}
