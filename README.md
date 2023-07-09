@@ -1,4 +1,4 @@
-# PhotoSplicer
+# PhotoTimeSlicer
 Take photos on a schedule and splice them together
 
 ---
